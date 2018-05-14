@@ -1,0 +1,21 @@
+{
+  "name": "indexeddb",
+  "version": "1.0.0",
+  "description": "indexedDB数据库操作",
+  "main": "./dist/IndexedDB.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "indexedDB",
+    "H5"
+  ],
+  "author": "BLUE",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "webpack": "^3.6.0"
+  }
+}
